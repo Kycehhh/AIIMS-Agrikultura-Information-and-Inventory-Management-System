@@ -1,6 +1,4 @@
-Based on the content of the uploaded PDF file titled "Group9_TestPlan.pdf," here's a README file for the project "Agrikultura Information and Inventory Management System (AIIMS)":
 
----
 
 # Agrikultura Information and Inventory Management System (AIIMS) - Test Plan
 
